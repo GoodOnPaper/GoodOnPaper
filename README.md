@@ -1,5 +1,3 @@
-+ Who         : I am a wannabe programmer.
-+ languages   : A year ago (late 2022) i programmed in python, and also did some Haskell and C. Currently im trying to learn Zig.
-+ hobbies,etc.: Currently im learning zig, some physical labor there and there(gardening, assisting with car repair) 
-                and the rest of the time i waste on entertainment(Yt etc.).
-+ goal        : getting a comfortable job.
++ Who         : I would like to be a fully capable programmer one day, but right now i am taking my time.
++ languages   : late 2022 I did a bit of Haskell and C. Currently im trying to learn Zig, and every once in a while i use python.
++ goal        : getting a job, by that i mean i am looking for one, (altough i am aware that there is not a lot i can give with my skills, im always trying to improve).
